@@ -1,0 +1,3 @@
+[submodule "public/css/css-vertical-rhythm-reset"]
+	path = public/css/css-vertical-rhythm-reset
+	url = git@github.com:kuba-orlik/css-vertical-rhythm-reset.git
